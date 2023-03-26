@@ -1,0 +1,38 @@
+.img-case {
+    width: 400px;
+    height: 300px;
+
+}
+
+.p-details {
+    width: 700px;
+    margin-left: 40px;
+    /* background-color: rgb(0, 255, 55); */
+
+}
+
+.delivery-case {
+    border: 1px solid black;
+    width: 600px;
+    height: 600px;
+    border: 1px solid aliceblue;
+    background-color: whitesmoke;
+    margin-left: 40px;
+    border-radius: 10px;
+
+}
+
+
+
+.main-info {
+    padding: 100px;
+
+}
+
+.p-info {
+    /* width: 1000px; */
+    /* background-color: black; */
+    border: 1px solid aliceblue;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
